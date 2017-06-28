@@ -1,4 +1,4 @@
-echo "## Installation du drier kinect v1:"
+echo "## Installation du driver kinect v1:"
 echo "Veuillez patienter quelques minutes:"
 
 cd ressources/kinect-audio-setup
